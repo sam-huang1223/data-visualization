@@ -1,4 +1,4 @@
-# data-visualization
+# Visualizing Data
 Automated collection, analysis, and visualization of stock price data
 
 The graphing_bollinger_bands script automatically pulls stock data from Yahoo Finance to create 
