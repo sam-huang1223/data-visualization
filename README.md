@@ -10,4 +10,4 @@ All axes labels and text positionings are dynamically determined
 
 Finance professionals can use this script to quickly create beautiful bollinger band graphs to
 assist with technical analysis, while business professionals can use the graph code
-(e.g. clean_style) to automate the process of creating professional visuals for presentations
+(e.g. clean_style function) to automate the process of creating professional visuals for presentations
