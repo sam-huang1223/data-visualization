@@ -12,6 +12,7 @@ As you will see in the resulting graph, the stock price rarely ever moves past t
 bollinger band - algorithmic traders can use bollinger bands to generate buy/sell signals from
 stock prices that approach their bollinger bands
 
-Finance professionals can use this script to quickly create beautiful bollinger band graphs to
-assist with technical analysis, while business professionals can use the graph code
-(e.g. clean_style function) to automate the process of creating professional visuals for presentations
+This script can be valuable to finance professionals, who can use this script to quickly create 
+beautiful bollinger band graphs to assist with technical analysis, while business professionals 
+can use the graph code (e.g. clean_style function) to automate the process of creating professional
+visuals for presentations
