@@ -1,5 +1,6 @@
-# Visualizing Data
-Automated collection, analysis, and visualization of stock price data
+# Visualizing Stock Prices and Bollinger Bands
+
+Please excuse any improper formatting or non-adherence to Github etiquette. I'm formally a commerce student specializing in finance. This is my first interaction with Github as a very new, but very passionate programmer.
 
 The graphing_bollinger_bands script automatically pulls stock data from Yahoo Finance to create 
 a graph displaying the stock price data and its bollinger bands (moving volatility based on moving 
