@@ -6,7 +6,10 @@ a graph displaying the stock price data and its bollinger bands (moving volatili
 mean and standard deviation) over n number of years. The user may specify the type (bollinger bands
 or only stock price) and aesthetics of the graph (either beautifully clean with dashed lines, or 
 more PowerPoint-professional style)
-All axes labels and text positionings are dynamically determined
+* Bollinger bands are generally used as approximate measures of maximum divergence from the mean.
+As you will see in the resulting graph, the stock price rarely ever moves past the upper or lower
+bollinger band - algorithmic traders can use bollinger bands to generate buy/sell signals from
+stock prices that approach their bollinger bands
 
 Finance professionals can use this script to quickly create beautiful bollinger band graphs to
 assist with technical analysis, while business professionals can use the graph code
